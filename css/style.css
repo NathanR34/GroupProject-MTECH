@@ -1,0 +1,9 @@
+@font-face {
+    font-family: sepet;
+    src: url('/css/fonts/Sepet-rP67.otf');
+}
+
+body{
+    background-color: azure;
+    font-family: 'sepet', sans-serif;
+}
