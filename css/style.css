@@ -21,3 +21,7 @@ a{
 a:hover{
     background-color: #400a2b;
 }
+#mtechLogo {
+    height: 30px;
+    width: 30px;
+}
